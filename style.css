@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center; 
+  }
+  
+  img[src$=".jpg"],
+  img[src$=".jpeg"] {
+    width: 200px;
+    height: auto;
+  }
+  
+  .anime {
+    width: 500px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid white;
+  }
+  
